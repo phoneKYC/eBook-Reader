@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "runes_of_silence",
+      "title": "رموز الصمت",
+      "titleEn": "Runes of Silence",
+      "author": "IIDZII",
+      "lang": "ar",
+      "genre": "fantasy",
+      "file": "ar/runes_of_silence.txt",
+      "description": "في مكتبة قديمة تنبض رموزها بالحياة ليلاً، يكتشف عالم شاب أن هذه الرموز تحمل مفتاح حضارة منسية",
+      "descriptionEn": "In an ancient library where runes come alive at night, a young scholar discovers they hold the key to a forgotten civilization",
+      "cover_color": "#8B4513"
+    },
+    {
+      "id": "digital_oasis",
+      "title": "واحة رقمية",
+      "titleEn": "Digital Oasis",
+      "author": "IIDZII",
+      "lang": "ar",
+      "genre": "cyberpunk",
+      "file": "ar/digital_oasis.txt",
+      "description": "هاكر في مدينة عربية مستقبلية يكتشف واحة رقمية مخفية داخل الشبكة العصبية",
+      "descriptionEn": "A hacker in a futuristic Arab city discovers a hidden digital oasis within the neural network",
+      "cover_color": "#00897B"
+    },
+    {
+      "id": "neon_prophet",
+      "title": "The Neon Prophet",
+      "titleEn": "The Neon Prophet",
+      "author": "IIDZII",
+      "lang": "en",
+      "genre": "cyberpunk",
+      "file": "en/neon_prophet.txt",
+      "description": "A street preacher in a rain-soaked megacity predicts corporate crashes, and a journalist seeks the truth",
+      "descriptionEn": "A street preacher in a rain-soaked megacity predicts corporate crashes, and a journalist seeks the truth",
+      "cover_color": "#5C6BC0"
+    },
+    {
+      "id": "last_algorithm",
+      "title": "The Last Algorithm",
+      "titleEn": "The Last Algorithm",
+      "author": "IIDZII",
+      "lang": "en",
+      "genre": "sci-fi",
+      "file": "en/last_algorithm.txt",
+      "description": "The last human programmer maintaining civilization's AI discovers a hidden message in the code",
+      "descriptionEn": "The last human programmer maintaining civilization's AI discovers a hidden message in the code",
+      "cover_color": "#F57C00"
+    }
+  ]
+}
